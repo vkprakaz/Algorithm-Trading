@@ -1,0 +1,9 @@
+**/__pycache__/
+_venv
+_wenv
+db.sqlite3
+
+polls
+
+.idea
+
